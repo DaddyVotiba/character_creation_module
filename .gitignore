@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+graphic_arts/
 
 # Spyder project settings
 .spyderproject
